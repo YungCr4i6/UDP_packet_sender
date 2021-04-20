@@ -1,4 +1,4 @@
 # UDP_packet_sender
 
-## Features:
+## Info:
 - simple UDP packet sender created in C#
