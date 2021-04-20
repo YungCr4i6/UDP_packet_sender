@@ -1,0 +1,4 @@
+C:\Users\kmate\Desktop\UDP_packet_sender\UDP_packet_sender\obj\Debug\netcoreapp3.1\UDP_packet_sender.csprojAssemblyReference.cache
+C:\Users\kmate\Desktop\UDP_packet_sender\UDP_packet_sender\obj\Debug\netcoreapp3.1\UDP_packet_sender.AssemblyInfoInputs.cache
+C:\Users\kmate\Desktop\UDP_packet_sender\UDP_packet_sender\obj\Debug\netcoreapp3.1\UDP_packet_sender.AssemblyInfo.cs
+C:\Users\kmate\Desktop\UDP_packet_sender\UDP_packet_sender\obj\Debug\netcoreapp3.1\UDP_packet_sender.csproj.CoreCompileInputs.cache
